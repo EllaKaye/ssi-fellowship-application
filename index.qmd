@@ -1,0 +1,36 @@
+---
+title: "SSI Fellowship Application"
+author: "Ella Kaye"
+format: 
+  revealjs:
+    theme: custom.scss
+    progress: false
+    menu: false
+---
+
+## {.inverse}
+
+[Research Software Engineer at the University of Warwick]{.orange}
+
+[Sustainability and EDI in the R Project (with Heather Turner)]{.yellow}
+
+[Fostering a larger and more diverse community of contributors to base R]{.green}
+
+## {.inverse}
+
+[Contribute to base R]{.green}
+
+[Run R Dev Days]{.blue}
+
+[Organise conferences]{.pink}
+
+[Teaching and training]{.red}
+
+[Give talks]{.orange}
+
+[Community-building]{.yellow}
+
+# {.inverse}
+
+[rainbowR]{.yellow .larger175} is a [community of practice]{.green} that
+[connects]{.red}, [supports]{.orange} and [promotes]{.yellow} [LGBTQ+]{.pink} people in the [R community]{.blue} and spreads awareness of LGBTQ+ issues through [data-driven activism]{.green}
