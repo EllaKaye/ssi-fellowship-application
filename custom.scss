@@ -24,7 +24,7 @@ $body-color: $very-dark-blue;
 $body-bg: $white;
 $link-color: $blue;
 
-$presentation-font-size-root: 48px;
+$presentation-font-size-root: 36px;
 
 // colour classes
 .red {
@@ -70,6 +70,11 @@ p {
   padding-bottom: 12px;
 }
 
+h2 {
+  font-size: 175%;
+  padding-bottom: 24px;
+}
+
 // sizing
 
 .smaller80 {
@@ -78,6 +83,10 @@ p {
 
 .smaller90 {
   font-size: 90%;
+}
+
+.larger133 {
+  font-size: 133%;
 }
 
 .larger150 {
@@ -128,11 +137,9 @@ p {
 }
 
 // title-slide
-/*
 #title-slide > h1 {
   display: none;
 }
-*/
 
 // inverse
 .inverse {

@@ -1,6 +1,8 @@
 ---
 title: "SSI Fellowship Application"
-author: "Ella Kaye"
+title-slide-attributes:
+  data-background-image: images/title-slide.png
+  data-background-size: contain
 format: 
   revealjs:
     theme: custom.scss
@@ -8,15 +10,17 @@ format:
     menu: false
 ---
 
-## {.inverse}
+## Professionally {.inverse}
 
-[Research Software Engineer at the University of Warwick]{.orange}
+[Research Software Engineer at the University of Warwick]{.blue}
 
 [Sustainability and EDI in the R Project (with Heather Turner)]{.yellow}
 
 [Fostering a larger and more diverse community of contributors to base R]{.green}
 
-## {.inverse}
+![](images/r_sprint_group_friday.jpeg)
+
+## What I do {.inverse}
 
 [Contribute to base R]{.green}
 
@@ -24,13 +28,46 @@ format:
 
 [Organise conferences]{.pink}
 
-[Teaching and training]{.red}
+[Teach, workshops, study groups]{.red}
 
 [Give talks]{.orange}
 
 [Community-building]{.yellow}
 
+## EDIA advocate {.inverse}
+
+[under-represented AND privileged]{.green}
+
+[Data and AI workshop EDIA panel]{.pink}
+
+[DiveRSE talk]{.red}
+
+[SSI Inclusive research partner]{.blue}
+
+# [rainbowR]{.yellow} {.inverse .larger133}
+
+a [community of practice]{.green} that
+[connects]{.red}, [supports]{.orange} and [promotes]{.yellow} [LGBTQ+]{.pink} people in the [R community]{.blue} and spreads awareness of [LGBTQ+]{.pink} issues through [data-driven activism]{.green}
+
+# Fellowship plans {.smaller80}
+
+- nurture the community
+  - why this is important
+  - how it's grown so far
+  - what I'm doing well and what I would appreciate support with
+
+- mini-conference/symposium
+
+- CSCCE training 
+
+- learning from other communities of practice
+
+- QueeRSE?
+
+- RSE Con 2025 at Warwick link?
+
 # {.inverse}
 
-[rainbowR]{.yellow .larger175} is a [community of practice]{.green} that
-[connects]{.red}, [supports]{.orange} and [promotes]{.yellow} [LGBTQ+]{.pink} people in the [R community]{.blue} and spreads awareness of LGBTQ+ issues through [data-driven activism]{.green}
+<https://ellakaye.co.uk>
+
+<https://rainbowr.org>
