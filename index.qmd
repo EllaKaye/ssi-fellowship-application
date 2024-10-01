@@ -1,16 +1,19 @@
 ---
 title: "SSI Fellowship Application"
 title-slide-attributes:
-  data-background-image: images/title-slide.png
+  data-background-image: images/title-slide-new.png
   data-background-size: contain
 format: 
   revealjs:
     theme: custom.scss
     progress: false
     menu: false
+    width: 1280
+    height: 720
+    margin: 0.2
 ---
 
-## Professionally {.inverse}
+## Professionally {.inverse .smaller80}
 
 [Research Software Engineer at the University of Warwick]{.blue}
 
@@ -44,7 +47,7 @@ format:
 
 ## EDIA advocate {.inverse}
 
-[under-represented AND privileged]{.green}
+[Under-represented AND privileged]{.green}
 
 [EDIA panel at the Research Software Engineers in Data and AI workshop]{.pink}
 
@@ -52,12 +55,12 @@ format:
 
 [SSI Inclusive research partner]{.blue}
 
-# [rainbowR]{.yellow} {.inverse .larger133}
+# [rainbowR]{.yellow} {.inverse .larger150}
 
 a [community of practice]{.green} that
 [connects]{.red}, [supports]{.orange} and [promotes]{.yellow} [LGBTQ+]{.pink} people in the [R community]{.blue} and spreads awareness of [LGBTQ+]{.pink} issues through [data-driven activism]{.green}
 
-# {.inverse .center .center-h .larger250}
+# {.inverse .center .center-h .larger200}
 
 ☀️ 💧
 
@@ -91,7 +94,7 @@ a [community of practice]{.green} that
 
 [Paid training]{.yellow}
 
-[Also use SSI channels to promote the conference, and rainbowR more generally]{.green}
+[Use SSI channels to promote the conference, and rainbowR more generally]{.green}
 
 [SSI fellowship mentor]{.blue}
 
@@ -109,13 +112,13 @@ a [community of practice]{.green} that
 
 ## {.center-h .inverse}
 
-[ellakaye.co.uk]{.larger250 .yellow}
+[ellakaye.co.uk]{.larger200 .yellow}
 
 ![](images/ellakaye-homepage.png)
 
 ## {.center-h .inverse}
 
-[rainbowr.org]{.larger250 .yellow}
+[rainbowr.org]{.larger200 .yellow}
 
 ![](images/rainbowR-hex.svg)
 
