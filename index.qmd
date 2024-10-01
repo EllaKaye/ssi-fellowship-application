@@ -76,29 +76,26 @@ a [community of practice]{.green} that
 
 [Exchange of practice with other communities, including OLS and The Turing Way]{.green}
 
-[Training (e.g. CSCCE) and mentoring]{.red}
+[Training (e.g. CSCCE)]{.red}
 
 [Clear and varied pathways to engagement]{.orange}
 
 [Formalise and expand the committee]{.pink}
 
 
-
-
-
 ## Budget / fellowship support {.inverse}
 
 [Technical infrastucture for mini-conference, making it accessible and inclusive.]{.red}
 
-[Also use SSI channels to promote the conference, and rainbowR more generally]{.orange}
+[Travel to meet with other community of practice leaders]{.orange}
 
-[Travel to meet with other community of practice leaders]{.yellow}
+[Paid training]{.yellow}
 
-[Paid training]{.green}
+[Also use SSI channels to promote the conference, and rainbowR more generally]{.green}
 
 [SSI fellowship mentor]{.blue}
 
-[Opportunities to meet, network, learn from and share experiences with other fellows and SSI members]{.pink}
+[Opportunities to meet, learn from and share experiences with other fellows and SSI members]{.pink}
 
 ## Outcomes {.inverse}
 
